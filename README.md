@@ -1,2 +1,2 @@
-# resource_library
+# 学习资源整合
 store resoure for learning 
